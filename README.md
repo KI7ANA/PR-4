@@ -312,7 +312,7 @@ public class MainActivity extends AppCompatActivity {
 
 <div align="center">
 
-![Рисунок 1 - Результат задания 4](images/image_1.png)
+<img width="427" height="796" alt="image" src="https://github.com/user-attachments/assets/249d1f34-dd0a-4d83-9253-31cfd2241866" />
 
 *Рисунок 1. Результат выполнения задания 4*
 
