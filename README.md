@@ -646,7 +646,7 @@ public class MainActivity extends AppCompatActivity {
 
 <div align="center">
 
-![Рисунок 2 - Результат задания для самостоятельного выполнения](images/image_2.png)
+<img width="390" height="809" alt="image" src="https://github.com/user-attachments/assets/251dc017-255d-4adf-86a8-ac0ddd0d2444" />
 
 *Рисунок 2. Результат выполнения самостоятельного задания (вариант 5)*
 
